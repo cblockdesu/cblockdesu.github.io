@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# VitePress
+docs/.vitepress/dist/
+docs/.vitepress/cache/

@@ -1,0 +1,12 @@
+:root {
+    --vp-custom-block-font-size: 15px;
+}
+
+.custom-block-title {
+    font-weight: 700;
+}
+
+.vp-doc ul,
+.vp-doc ol {
+    padding-left: 2rem;
+}
