@@ -10,3 +10,9 @@
 .vp-doc ol {
     padding-left: 2rem;
 }
+
+/* Pages with a wide table fill the whole container */
+.wide .VPDoc .content,
+.wide .VPDoc .content-container {
+    max-width: none !important;
+}

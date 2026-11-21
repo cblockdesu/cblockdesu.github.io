@@ -13,6 +13,7 @@ export default defineConfig({
             themeConfig: {
                 nav: [
                     { text: "How cBlock Decides", link: "/how-it-works" },
+                    { text: "China-linked Companies", link: "/companies" },
                     { text: "Privacy Policy", link: "/privacy-policy" },
                 ],
             },
@@ -25,6 +26,7 @@ export default defineConfig({
             themeConfig: {
                 nav: [
                     { text: "判定のしくみ", link: "/ja/how-it-works" },
+                    { text: "中国系の企業", link: "/ja/companies" },
                     { text: "プライバシーポリシー", link: "/ja/privacy-policy" },
                 ],
                 outline: { level: [2, 3], label: "目次" },

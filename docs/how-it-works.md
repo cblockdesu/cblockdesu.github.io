@@ -20,6 +20,8 @@ A company is not included just because a Chinese company has invested in it. Onl
 
 China-linked websites are the websites of China-linked companies, and websites whose domain ends in `.cn`, `.中国`, or `.中國`.
 
+The [list of China-linked companies](/companies) shows each one’s websites and the names cBlock looks for.
+
 ## Text filter
 
 Runs with the “Chinese text” and “Links to China-linked websites” options. Both are on by default.

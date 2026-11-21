@@ -1,0 +1,2275 @@
+[
+    {
+        "company": "Tencent",
+        "genres": [
+            "games",
+            "ai",
+            "social",
+            "companies"
+        ],
+        "domains": [
+            "qq.com",
+            "tencent.com",
+            "tencentcloud.com",
+            "tencentmusic.com",
+            "kugou.com",
+            "wechat.com"
+        ],
+        "names": [
+            "Tencent",
+            "Tencent Games",
+            "Level Infinite",
+            "TiMi Studio Group",
+            "LightSpeed Studios",
+            "honor of kings",
+            "hunyuan",
+            "wechat",
+            "weixin",
+            "微信",
+            "ウィーチャット",
+            "腾讯",
+            "騰訊",
+            "テンセント"
+        ],
+        "note": ""
+    },
+    {
+        "company": "ByteDance",
+        "genres": [
+            "games",
+            "ai",
+            "social",
+            "companies"
+        ],
+        "domains": [
+            "bytedance.com",
+            "douyin.com",
+            "tiktok.com",
+            "toutiao.com",
+            "ixigua.com",
+            "capcut.com",
+            "larksuite.com",
+            "doubao.com"
+        ],
+        "names": [
+            "Nuverse",
+            "doubao",
+            "seedance",
+            "seedream",
+            "豆包",
+            "coze",
+            "gauth",
+            "Trae",
+            "Cici",
+            "tiktok",
+            "douyin",
+            "capcut",
+            "lemon8",
+            "hypic",
+            "抖音",
+            "ティックトック",
+            "Lark",
+            "ByteDance",
+            "バイトダンス"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Alibaba",
+        "genres": [
+            "ai",
+            "shopping",
+            "companies"
+        ],
+        "domains": [
+            "alibaba.com",
+            "alibaba.co.jp",
+            "taobao.com",
+            "tmall.com",
+            "1688.com",
+            "aliexpress.com",
+            "alibabacloud.com",
+            "aliyun.com",
+            "dingtalk.com",
+            "dingtalk.jp",
+            "dingtalk.co.jp",
+            "cainiao.com",
+            "youku.com",
+            "ucweb.com"
+        ],
+        "names": [
+            "qwen",
+            "tongyi",
+            "通义千问",
+            "通義千問",
+            "aliexpress",
+            "taobao",
+            "tmall",
+            "淘宝",
+            "淘寶",
+            "タオバオ",
+            "Alibaba",
+            "阿里巴巴",
+            "アリババグループ",
+            "アリババ・グループ",
+            "アリババ集団",
+            "アリババクラウド",
+            "アリババ・クラウド",
+            "アリババ株",
+            "アリババ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Ant Group",
+        "genres": [
+            "shopping"
+        ],
+        "domains": [],
+        "names": [
+            "alipay"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Baidu",
+        "genres": [
+            "ai",
+            "companies"
+        ],
+        "domains": [
+            "baidu.com",
+            "baidu.jp",
+            "baidu.co.jp",
+            "simeji.me"
+        ],
+        "names": [
+            "文心一言",
+            "ERNIE",
+            "Baidu",
+            "バイドゥ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "NetEase",
+        "genres": [
+            "games"
+        ],
+        "domains": [
+            "netease.com",
+            "163.com",
+            "youdao.com",
+            "lofter.com"
+        ],
+        "names": [
+            "NetEase",
+            "NetEase Games",
+            "naraka bladepoint",
+            "sea of remnants",
+            "ネットイース",
+            "荒野行動",
+            "第五人格",
+            "シー オブ レムナンツ",
+            "marvel rivals",
+            "where winds meet",
+            "Identity V"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Bilibili",
+        "genres": [
+            "social"
+        ],
+        "domains": [
+            "bilibili.com",
+            "bilibili.tv",
+            "bilibili.co.jp"
+        ],
+        "names": [
+            "Bilibili"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Kuaishou",
+        "genres": [
+            "ai",
+            "social"
+        ],
+        "domains": [
+            "kuaishou.com",
+            "kling.ai"
+        ],
+        "names": [
+            "kling ai",
+            "Kuaishou"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Weibo",
+        "genres": [
+            "social"
+        ],
+        "domains": [
+            "weibo.com"
+        ],
+        "names": [
+            "Weibo"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Mihuashi",
+        "genres": [],
+        "domains": [
+            "mihuashi.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Afdian",
+        "genres": [],
+        "domains": [
+            "afdian.com",
+            "ifdian.net"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Zhihu",
+        "genres": [
+            "social"
+        ],
+        "domains": [
+            "zhihu.com"
+        ],
+        "names": [
+            "Zhihu"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Xiaohongshu",
+        "genres": [
+            "social"
+        ],
+        "domains": [],
+        "names": [
+            "Xiaohongshu",
+            "rednote",
+            "小红书",
+            "小紅書"
+        ],
+        "note": ""
+    },
+    {
+        "company": "iQIYI",
+        "genres": [],
+        "domains": [
+            "iqiyi.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Sohu",
+        "genres": [],
+        "domains": [
+            "sohu.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "BIGO",
+        "genres": [],
+        "domains": [
+            "bigo.tv",
+            "likee.video"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "China Media Group",
+        "genres": [],
+        "domains": [
+            "cctv.com",
+            "cgtn.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Meitu",
+        "genres": [
+            "social"
+        ],
+        "domains": [
+            "meitu.com"
+        ],
+        "names": [
+            "Meitu",
+            "beautyplus",
+            "beautycam"
+        ],
+        "note": ""
+    },
+    {
+        "company": "DeepSeek",
+        "genres": [
+            "ai"
+        ],
+        "domains": [
+            "deepseek.com"
+        ],
+        "names": [
+            "DeepSeek",
+            "ディープシーク",
+            "深度求索"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Moonshot AI",
+        "genres": [
+            "ai"
+        ],
+        "domains": [
+            "kimi.com",
+            "moonshot.ai"
+        ],
+        "names": [
+            "kimi k2",
+            "Moonshot AI"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Zhipu",
+        "genres": [
+            "ai"
+        ],
+        "domains": [
+            "z.ai"
+        ],
+        "names": [
+            "chatglm",
+            "glm-4",
+            "glm-5",
+            "Zhipu"
+        ],
+        "note": ""
+    },
+    {
+        "company": "MiniMax",
+        "genres": [
+            "ai"
+        ],
+        "domains": [
+            "minimax.io",
+            "hailuo.ai"
+        ],
+        "names": [
+            "hailuo",
+            "MiniMax"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Baichuan",
+        "genres": [
+            "ai"
+        ],
+        "domains": [],
+        "names": [
+            "Baichuan"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Shanghai AI Laboratory",
+        "genres": [
+            "ai"
+        ],
+        "domains": [],
+        "names": [
+            "internlm"
+        ],
+        "note": ""
+    },
+    {
+        "company": "StepFun",
+        "genres": [
+            "ai"
+        ],
+        "domains": [],
+        "names": [
+            "StepFun"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Notta",
+        "genres": [
+            "ai"
+        ],
+        "domains": [],
+        "names": [
+            "Notta"
+        ],
+        "note": ""
+    },
+    {
+        "company": "ShengShu",
+        "genres": [
+            "ai"
+        ],
+        "domains": [],
+        "names": [
+            "vidu"
+        ],
+        "note": ""
+    },
+    {
+        "company": "AIsphere",
+        "genres": [
+            "ai"
+        ],
+        "domains": [],
+        "names": [
+            "pixverse"
+        ],
+        "note": ""
+    },
+    {
+        "company": "JD.com",
+        "genres": [],
+        "domains": [
+            "jd.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "PDD",
+        "genres": [
+            "shopping"
+        ],
+        "domains": [
+            "pinduoduo.com",
+            "temu.com",
+            "temu.jp",
+            "temu.co.jp"
+        ],
+        "names": [
+            "pinduoduo",
+            "temu",
+            "拼多多"
+        ],
+        "note": ""
+    },
+    {
+        "company": "SHEIN",
+        "genres": [
+            "shopping"
+        ],
+        "domains": [
+            "shein.com",
+            "romwe.com"
+        ],
+        "names": [
+            "SHEIN"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Cider",
+        "genres": [],
+        "domains": [
+            "shopcider.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "YesStyle",
+        "genres": [],
+        "domains": [
+            "yesstyle.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Halara",
+        "genres": [],
+        "domains": [
+            "halara.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "DHgate",
+        "genres": [],
+        "domains": [
+            "dhgate.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Banggood",
+        "genres": [],
+        "domains": [
+            "banggood.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Meituan",
+        "genres": [
+            "shopping"
+        ],
+        "domains": [
+            "meituan.com",
+            "dianping.com",
+            "keeta.com"
+        ],
+        "names": [
+            "Meituan"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Trip.com",
+        "genres": [],
+        "domains": [
+            "trip.com",
+            "ctrip.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Futu",
+        "genres": [],
+        "domains": [
+            "futunn.com",
+            "moomoo.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "UP Fintech",
+        "genres": [],
+        "domains": [
+            "itigerup.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Kanzhun",
+        "genres": [],
+        "domains": [
+            "zhipin.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Hello Group",
+        "genres": [],
+        "domains": [
+            "immomo.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Cheetah Mobile",
+        "genres": [],
+        "domains": [
+            "cmcm.com"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Kingsoft",
+        "genres": [],
+        "domains": [
+            "wps.com",
+            "kingsoft.jp"
+        ],
+        "names": [],
+        "note": ""
+    },
+    {
+        "company": "Wondershare",
+        "genres": [
+            "companies"
+        ],
+        "domains": [
+            "wondershare.com",
+            "wondershare.jp",
+            "wondershare.co.jp"
+        ],
+        "names": [
+            "Wondershare",
+            "filmora",
+            "フィモーラ",
+            "pdfelement",
+            "recoverit",
+            "uniconverter"
+        ],
+        "note": ""
+    },
+    {
+        "company": "EaseUS",
+        "genres": [
+            "companies"
+        ],
+        "domains": [
+            "easeus.com"
+        ],
+        "names": [
+            "EaseUS",
+            "イーザス"
+        ],
+        "note": ""
+    },
+    {
+        "company": "AOMEI",
+        "genres": [
+            "companies"
+        ],
+        "domains": [
+            "aomeitech.com",
+            "aomei.jp"
+        ],
+        "names": [
+            "AOMEI"
+        ],
+        "note": ""
+    },
+    {
+        "company": "iMyFone",
+        "genres": [
+            "companies"
+        ],
+        "domains": [
+            "imyfone.com"
+        ],
+        "names": [
+            "iMyFone"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Apowersoft",
+        "genres": [
+            "companies"
+        ],
+        "domains": [
+            "apowersoft.com",
+            "apowersoft.jp"
+        ],
+        "names": [
+            "Apowersoft"
+        ],
+        "note": ""
+    },
+    {
+        "company": "DVDFab",
+        "genres": [
+            "companies"
+        ],
+        "domains": [],
+        "names": [
+            "DVDFab"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Digiarty",
+        "genres": [
+            "companies"
+        ],
+        "domains": [
+            "digiarty.com"
+        ],
+        "names": [
+            "Digiarty",
+            "videoproc"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Xiaomi",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [
+            "mi.com",
+            "xiaomi.com"
+        ],
+        "names": [
+            "Xiaomi",
+            "redmi",
+            "mijia",
+            "シャオミ",
+            "POCO"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Huawei",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [
+            "huawei.com"
+        ],
+        "names": [
+            "Huawei",
+            "ファーウェイ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Honor",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Honor"
+        ],
+        "note": ""
+    },
+    {
+        "company": "OPPO",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "OPPO",
+            "oneplus",
+            "ワンプラス"
+        ],
+        "note": ""
+    },
+    {
+        "company": "vivo",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "vivo",
+            "iqoo"
+        ],
+        "note": ""
+    },
+    {
+        "company": "realme",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "realme"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Meizu",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Meizu"
+        ],
+        "note": ""
+    },
+    {
+        "company": "ZTE",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "ZTE",
+            "nubia"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Transsion",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Transsion",
+            "tecno",
+            "infinix",
+            "oraimo"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Ulefone",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Ulefone"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Doogee",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Doogee"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Blackview",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Blackview"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Chuwi",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Chuwi"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Teclast",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Teclast"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Lenovo",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [
+            "lenovo.com"
+        ],
+        "names": [
+            "Lenovo",
+            "レノボ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Unihertz",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Unihertz"
+        ],
+        "note": ""
+    },
+    {
+        "company": "MINISFORUM",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "MINISFORUM",
+            "ミニスフォーラム"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Beelink",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Beelink",
+            "ビーリンク"
+        ],
+        "note": ""
+    },
+    {
+        "company": "GMKtec",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "GMKtec"
+        ],
+        "note": ""
+    },
+    {
+        "company": "AYANEO",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "AYANEO",
+            "アヤネオ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "GPD",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "GPD"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Anbernic",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Anbernic"
+        ],
+        "note": ""
+    },
+    {
+        "company": "8BitDo",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "8BitDo"
+        ],
+        "note": ""
+    },
+    {
+        "company": "GameSir",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "GameSir"
+        ],
+        "note": ""
+    },
+    {
+        "company": "XPPen",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "xp-pen",
+            "XPPen"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Huion",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Huion"
+        ],
+        "note": ""
+    },
+    {
+        "company": "NuPhy",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "NuPhy"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Royal Kludge",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Royal Kludge"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Redragon",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Redragon"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Tenda",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Tenda"
+        ],
+        "note": ""
+    },
+    {
+        "company": "ORICO",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "ORICO"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Anker",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [
+            "anker.com",
+            "anker-in.com",
+            "ankerjapan.com",
+            "soundcore.com",
+            "eufy.com"
+        ],
+        "names": [
+            "Anker",
+            "soundcore",
+            "eufy"
+        ],
+        "note": "Since 2023, more than 5 recalls in Japan, most over fire risk"
+    },
+    {
+        "company": "UGREEN",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "UGREEN",
+            "ユーグリーン"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Baseus",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Baseus"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Aukey",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Aukey"
+        ],
+        "note": ""
+    },
+    {
+        "company": "RAVPower",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "RAVPower"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Sharge",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Sharge"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Charmast",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Charmast"
+        ],
+        "note": ""
+    },
+    {
+        "company": "TP-Link",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [
+            "tp-link.com"
+        ],
+        "names": [
+            "TP-Link"
+        ],
+        "note": ""
+    },
+    {
+        "company": "QCY",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "QCY"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Edifier",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Edifier"
+        ],
+        "note": ""
+    },
+    {
+        "company": "SoundPEATS",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "SoundPEATS"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Tronsmart",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Tronsmart"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Haylou",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Haylou"
+        ],
+        "note": ""
+    },
+    {
+        "company": "1MORE",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "1MORE"
+        ],
+        "note": ""
+    },
+    {
+        "company": "EarFun",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "EarFun"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Oladance",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Oladance"
+        ],
+        "note": ""
+    },
+    {
+        "company": "FiiO",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "FiiO",
+            "フィーオ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Zepp Health",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "amazfit",
+            "アマズフィット"
+        ],
+        "note": ""
+    },
+    {
+        "company": "XGIMI",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "XGIMI"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Dangbei",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Dangbei",
+            "ダンベイ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "DJI",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [
+            "dji.com"
+        ],
+        "names": [
+            "DJI"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Insta360",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [
+            "insta360.com"
+        ],
+        "names": [
+            "Insta360"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Zhiyun",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Zhiyun"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Hikvision",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [
+            "hikvision.com"
+        ],
+        "names": [
+            "Hikvision"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Dahua",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Dahua",
+            "imou"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Autel",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Autel"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Segway-Ninebot",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "ninebot",
+            "segway"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Kingsmith",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Kingsmith",
+            "walkingpad"
+        ],
+        "note": ""
+    },
+    {
+        "company": "BYD",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "BYD"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Zeekr",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Zeekr"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Xpeng",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Xpeng"
+        ],
+        "note": ""
+    },
+    {
+        "company": "NIO",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "NIO"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Li Auto",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Li Auto"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Yadea",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Yadea"
+        ],
+        "note": ""
+    },
+    {
+        "company": "NIU",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "NIU"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Ulanzi",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Ulanzi"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Neewer",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Neewer"
+        ],
+        "note": ""
+    },
+    {
+        "company": "SmallRig",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "SmallRig",
+            "スモールリグ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Godox",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Godox",
+            "ゴドックス"
+        ],
+        "note": ""
+    },
+    {
+        "company": "TCL",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "TCL"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Hisense",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Hisense",
+            "ハイセンス"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Haier",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Haier",
+            "ハイアール",
+            "AQUA"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Midea",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Midea"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Roborock",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [
+            "roborock.com"
+        ],
+        "names": [
+            "Roborock",
+            "ロボロック"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Dreame",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [
+            "dreametech.com",
+            "dreametech.jp"
+        ],
+        "names": [
+            "Dreame"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Ecovacs",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Ecovacs",
+            "tineco",
+            "エコバックス"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Narwal",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Narwal"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Yeelight",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Yeelight"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Aqara",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Aqara"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Tuya",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [
+            "tuya.com"
+        ],
+        "names": [
+            "Tuya"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Govee",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Govee"
+        ],
+        "note": ""
+    },
+    {
+        "company": "HOTO",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "HOTO"
+        ],
+        "note": ""
+    },
+    {
+        "company": "SwitchBot",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "SwitchBot"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Meross",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Meross"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Viomi",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Viomi"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Dreo",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Dreo",
+            "ドレオ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Ulike",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Ulike"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Kumori",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Kumori",
+            "クモリ"
+        ],
+        "note": "Rakuten's cross-border notice names China as its location"
+    },
+    {
+        "company": "Jackery",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Jackery"
+        ],
+        "note": ""
+    },
+    {
+        "company": "EcoFlow",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "EcoFlow"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Bluetti",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Bluetti"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Anycubic",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Anycubic"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Creality",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Creality"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Elegoo",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Elegoo"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Bambu Lab",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Bambu Lab"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Flashforge",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Flashforge"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Snapmaker",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "Snapmaker"
+        ],
+        "note": ""
+    },
+    {
+        "company": "xTool",
+        "genres": [
+            "electronics"
+        ],
+        "domains": [],
+        "names": [
+            "xTool"
+        ],
+        "note": ""
+    },
+    {
+        "company": "HoYoverse",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "miHoYo",
+            "HoYoverse",
+            "Cognosphere",
+            "genshin",
+            "genshin impact",
+            "honkai",
+            "zenless zone zero",
+            "ミホヨ",
+            "ホヨバ",
+            "原神",
+            "スターレイル",
+            "ネクサスアニマ",
+            "ゼンレスゾーンゼロ",
+            "ゼンゼロ",
+            "プチプラネット"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Kuro Games",
+        "genres": [
+            "games"
+        ],
+        "domains": [
+            "kurogames.com"
+        ],
+        "names": [
+            "Kuro Games",
+            "wuthering waves",
+            "鳴潮",
+            "グレイレイヴン"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Hypergryph",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Hypergryph",
+            "Gryphline",
+            "arknights",
+            "アークナイツ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Manjuu",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "azur lane",
+            "アズールレーン"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Game Science",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Game Science",
+            "black myth",
+            "黒神話"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Perfect World",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Perfect World",
+            "Perfect World Games",
+            "Hotta Studio",
+            "tower of fantasy",
+            "幻塔",
+            "neverness to everness"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Papergames",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Papergames",
+            "Infold Games",
+            "love and deepspace",
+            "infinity nikki",
+            "恋と深空",
+            "インフィニティニキ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Sunborn",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "ドールズフロントライン",
+            "少女前線"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Bluepoch",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "リバース：1999",
+            "リバース:1999"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Cat Food Studio",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "mahjong soul",
+            "雀魂",
+            "じゃんたま"
+        ],
+        "note": ""
+    },
+    {
+        "company": "FirstFun",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "ラストウォー"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Aurogon",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "ash echoes",
+            "アッシュエコーズ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "iDreamSky",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "strinova",
+            "ストリノヴァ"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Pan Studio",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "duet night abyss",
+            "デュエットナイトアビス"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Moonton",
+        "genres": [
+            "games"
+        ],
+        "domains": [
+            "moonton.com",
+            "mobilelegends.com"
+        ],
+        "names": [
+            "Moonton",
+            "mobile legends"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Century Games",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "whiteout survival"
+        ],
+        "note": ""
+    },
+    {
+        "company": "S-GAME",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "S-GAME",
+            "S-GAME Studio",
+            "S-GAME Publishing",
+            "phantom blade zero"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Seasun Games",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Seasun Games",
+            "Amazing Seasun Games"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Lilith Games",
+        "genres": [
+            "games"
+        ],
+        "domains": [
+            "lilith.com",
+            "lilithgames.com"
+        ],
+        "names": [
+            "Lilith Games",
+            "rise of kingdoms",
+            "afk arena",
+            "afk journey"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Farlight Games",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Farlight Games",
+            "farlight 84"
+        ],
+        "note": ""
+    },
+    {
+        "company": "IGG",
+        "genres": [
+            "games"
+        ],
+        "domains": [
+            "igg.com",
+            "igg.jp"
+        ],
+        "names": [
+            "lords mobile",
+            "ロードモバイル"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Yostar",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Yostar"
+        ],
+        "note": ""
+    },
+    {
+        "company": "XD",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "XD"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Shengqu Games",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Shengqu Games",
+            "Shanda Games"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Giant Network",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Giant Network"
+        ],
+        "note": ""
+    },
+    {
+        "company": "37 Interactive",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "37 Interactive Entertainment",
+            "37Games"
+        ],
+        "note": ""
+    },
+    {
+        "company": "FunPlus",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "FunPlus",
+            "FunPlus International"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Pathea Games",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Pathea Games"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Coconut Island Games",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Coconut Island Games"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Gamera Game",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Gamera Game"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Gamirror Games",
+        "genres": [
+            "games"
+        ],
+        "domains": [],
+        "names": [
+            "Gamirror Games"
+        ],
+        "note": ""
+    }
+]
