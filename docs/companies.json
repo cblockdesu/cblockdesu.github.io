@@ -13,7 +13,9 @@
             "tencentcloud.com",
             "tencentmusic.com",
             "kugou.com",
-            "wechat.com"
+            "wechat.com",
+            "joox.com",
+            "levelinfinite.com"
         ],
         "names": [
             "Tencent",
@@ -23,10 +25,13 @@
             "LightSpeed Studios",
             "honor of kings",
             "hunyuan",
+            "yuanbao",
+            "腾讯元宝",
             "wechat",
             "weixin",
             "微信",
             "ウィーチャット",
+            "joox",
             "腾讯",
             "騰訊",
             "テンセント"
@@ -43,13 +48,23 @@
         ],
         "domains": [
             "bytedance.com",
+            "joinbytedance.com",
             "douyin.com",
             "tiktok.com",
             "toutiao.com",
             "ixigua.com",
             "capcut.com",
+            "lemon8-app.com",
             "larksuite.com",
-            "doubao.com"
+            "doubao.com",
+            "dola.com",
+            "gauthmath.com",
+            "byteplus.com",
+            "volcengine.com",
+            "oceanengine.com",
+            "picoxr.com",
+            "fanqienovel.com",
+            "fizzo.org"
         ],
         "names": [
             "Nuverse",
@@ -59,6 +74,9 @@
             "豆包",
             "coze",
             "gauth",
+            "dreamina",
+            "byteplus",
+            "volcengine",
             "Trae",
             "Cici",
             "tiktok",
@@ -66,7 +84,10 @@
             "capcut",
             "lemon8",
             "hypic",
+            "feishu",
             "抖音",
+            "飞书",
+            "剪映",
             "ティックトック",
             "Lark",
             "ByteDance",
@@ -90,6 +111,7 @@
             "aliexpress.com",
             "alibabacloud.com",
             "aliyun.com",
+            "qwen.ai",
             "dingtalk.com",
             "dingtalk.jp",
             "dingtalk.co.jp",
@@ -125,9 +147,13 @@
         "genres": [
             "shopping"
         ],
-        "domains": [],
+        "domains": [
+            "antgroup.com",
+            "alipay.com"
+        ],
         "names": [
-            "alipay"
+            "alipay",
+            "支付宝"
         ],
         "note": ""
     },
@@ -147,6 +173,7 @@
             "文心一言",
             "ERNIE",
             "Baidu",
+            "百度",
             "バイドゥ"
         ],
         "note": ""
@@ -154,10 +181,12 @@
     {
         "company": "NetEase",
         "genres": [
-            "games"
+            "games",
+            "companies"
         ],
         "domains": [
             "netease.com",
+            "neteasegames.com",
             "163.com",
             "youdao.com",
             "lofter.com"
@@ -173,7 +202,11 @@
             "シー オブ レムナンツ",
             "marvel rivals",
             "where winds meet",
-            "Identity V"
+            "once human",
+            "Identity V",
+            "Ananta",
+            "网易",
+            "網易"
         ],
         "note": ""
     },
@@ -185,10 +218,12 @@
         "domains": [
             "bilibili.com",
             "bilibili.tv",
-            "bilibili.co.jp"
+            "bilibili.co.jp",
+            "hdslb.com"
         ],
         "names": [
-            "Bilibili"
+            "Bilibili",
+            "哔哩哔哩"
         ],
         "note": ""
     },
@@ -200,11 +235,13 @@
         ],
         "domains": [
             "kuaishou.com",
-            "kling.ai"
+            "kling.ai",
+            "klingai.com"
         ],
         "names": [
             "kling ai",
-            "Kuaishou"
+            "Kuaishou",
+            "快手"
         ],
         "note": ""
     },
@@ -217,7 +254,8 @@
             "weibo.com"
         ],
         "names": [
-            "Weibo"
+            "Weibo",
+            "微博"
         ],
         "note": ""
     },
@@ -258,7 +296,10 @@
         "genres": [
             "social"
         ],
-        "domains": [],
+        "domains": [
+            "xiaohongshu.com",
+            "rednote.com"
+        ],
         "names": [
             "Xiaohongshu",
             "rednote",
@@ -269,11 +310,16 @@
     },
     {
         "company": "iQIYI",
-        "genres": [],
+        "genres": [
+            "social"
+        ],
         "domains": [
             "iqiyi.com"
         ],
-        "names": [],
+        "names": [
+            "iQIYI",
+            "爱奇艺"
+        ],
         "note": ""
     },
     {
@@ -290,6 +336,7 @@
         "genres": [],
         "domains": [
             "bigo.tv",
+            "bigo.sg",
             "likee.video"
         ],
         "names": [],
@@ -311,12 +358,17 @@
             "social"
         ],
         "domains": [
-            "meitu.com"
+            "meitu.com",
+            "meituxiuxiu.com",
+            "wink.ai",
+            "designkit.com",
+            "roboneo.com"
         ],
         "names": [
             "Meitu",
             "beautyplus",
-            "beautycam"
+            "beautycam",
+            "美图秀秀"
         ],
         "note": ""
     },
@@ -333,7 +385,7 @@
             "ディープシーク",
             "深度求索"
         ],
-        "note": ""
+        "note": "Korea found in 2025 that it sent user prompts to Beijing without consent"
     },
     {
         "company": "Moonshot AI",
@@ -342,6 +394,7 @@
         ],
         "domains": [
             "kimi.com",
+            "kimi.ai",
             "moonshot.ai"
         ],
         "names": [
@@ -362,7 +415,8 @@
             "chatglm",
             "glm-4",
             "glm-5",
-            "Zhipu"
+            "Zhipu",
+            "智谱"
         ],
         "note": ""
     },
@@ -373,11 +427,14 @@
         ],
         "domains": [
             "minimax.io",
-            "hailuo.ai"
+            "minimaxi.com",
+            "hailuo.ai",
+            "talkie-ai.com"
         ],
         "names": [
             "hailuo",
-            "MiniMax"
+            "MiniMax",
+            "Talkie"
         ],
         "note": ""
     },
@@ -386,9 +443,12 @@
         "genres": [
             "ai"
         ],
-        "domains": [],
+        "domains": [
+            "baichuan-ai.com"
+        ],
         "names": [
-            "Baichuan"
+            "Baichuan",
+            "百川智能"
         ],
         "note": ""
     },
@@ -399,7 +459,9 @@
         ],
         "domains": [],
         "names": [
-            "internlm"
+            "internlm",
+            "internvl",
+            "mineru"
         ],
         "note": ""
     },
@@ -408,9 +470,12 @@
         "genres": [
             "ai"
         ],
-        "domains": [],
+        "domains": [
+            "stepfun.com"
+        ],
         "names": [
-            "StepFun"
+            "StepFun",
+            "阶跃星辰"
         ],
         "note": ""
     },
@@ -430,7 +495,9 @@
         "genres": [
             "ai"
         ],
-        "domains": [],
+        "domains": [
+            "vidu.com"
+        ],
         "names": [
             "vidu"
         ],
@@ -441,19 +508,84 @@
         "genres": [
             "ai"
         ],
-        "domains": [],
+        "domains": [
+            "pixverse.ai"
+        ],
         "names": [
             "pixverse"
         ],
         "note": ""
     },
     {
+        "company": "01.AI",
+        "genres": [
+            "ai"
+        ],
+        "domains": [
+            "01.ai"
+        ],
+        "names": [
+            "零一万物"
+        ],
+        "note": ""
+    },
+    {
+        "company": "SenseTime",
+        "genres": [
+            "ai"
+        ],
+        "domains": [
+            "sensetime.com"
+        ],
+        "names": [
+            "SenseTime",
+            "sensenova",
+            "商汤",
+            "センスタイム"
+        ],
+        "note": ""
+    },
+    {
+        "company": "iFlytek",
+        "genres": [
+            "ai"
+        ],
+        "domains": [
+            "iflytek.com"
+        ],
+        "names": [
+            "iFlytek",
+            "科大讯飞",
+            "讯飞星火"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Manus",
+        "genres": [
+            "ai"
+        ],
+        "domains": [
+            "manus.im",
+            "manus.ai"
+        ],
+        "names": [
+            "Manus"
+        ],
+        "note": ""
+    },
+    {
         "company": "JD.com",
-        "genres": [],
+        "genres": [
+            "shopping"
+        ],
         "domains": [
             "jd.com"
         ],
-        "names": [],
+        "names": [
+            "京东",
+            "京東"
+        ],
         "note": ""
     },
     {
@@ -470,6 +602,7 @@
         "names": [
             "pinduoduo",
             "temu",
+            "whaleco",
             "拼多多"
         ],
         "note": ""
@@ -484,7 +617,8 @@
             "romwe.com"
         ],
         "names": [
-            "SHEIN"
+            "SHEIN",
+            "希音"
         ],
         "note": ""
     },
@@ -510,27 +644,37 @@
         "company": "Halara",
         "genres": [],
         "domains": [
-            "halara.com"
+            "halara.com",
+            "thehalara.jp"
         ],
         "names": [],
         "note": ""
     },
     {
         "company": "DHgate",
-        "genres": [],
+        "genres": [
+            "shopping"
+        ],
         "domains": [
             "dhgate.com"
         ],
-        "names": [],
+        "names": [
+            "DHgate",
+            "敦煌网"
+        ],
         "note": ""
     },
     {
         "company": "Banggood",
-        "genres": [],
+        "genres": [
+            "shopping"
+        ],
         "domains": [
             "banggood.com"
         ],
-        "names": [],
+        "names": [
+            "Banggood"
+        ],
         "note": ""
     },
     {
@@ -544,53 +688,77 @@
             "keeta.com"
         ],
         "names": [
-            "Meituan"
+            "Meituan",
+            "美团"
         ],
         "note": ""
     },
     {
         "company": "Trip.com",
-        "genres": [],
+        "genres": [
+            "shopping"
+        ],
         "domains": [
             "trip.com",
             "ctrip.com"
         ],
-        "names": [],
+        "names": [
+            "ctrip",
+            "携程"
+        ],
         "note": ""
     },
     {
         "company": "Futu",
-        "genres": [],
+        "genres": [
+            "companies"
+        ],
         "domains": [
             "futunn.com",
             "moomoo.com"
         ],
-        "names": [],
+        "names": [
+            "Futu",
+            "moomoo",
+            "富途"
+        ],
         "note": ""
     },
     {
         "company": "UP Fintech",
-        "genres": [],
-        "domains": [
-            "itigerup.com"
+        "genres": [
+            "companies"
         ],
-        "names": [],
+        "domains": [
+            "itigerup.com",
+            "itiger.com"
+        ],
+        "names": [
+            "tiger brokers",
+            "老虎證券",
+            "老虎证券"
+        ],
         "note": ""
     },
     {
         "company": "Kanzhun",
-        "genres": [],
+        "genres": [
+            "companies"
+        ],
         "domains": [
             "zhipin.com"
         ],
-        "names": [],
+        "names": [
+            "BOSS直聘"
+        ],
         "note": ""
     },
     {
         "company": "Hello Group",
         "genres": [],
         "domains": [
-            "immomo.com"
+            "immomo.com",
+            "hellogroup.com"
         ],
         "names": [],
         "note": ""
@@ -606,12 +774,19 @@
     },
     {
         "company": "Kingsoft",
-        "genres": [],
+        "genres": [
+            "companies"
+        ],
         "domains": [
             "wps.com",
+            "wps365.jp",
             "kingsoft.jp"
         ],
-        "names": [],
+        "names": [
+            "Kingsoft",
+            "キングソフト",
+            "wps office"
+        ],
         "note": ""
     },
     {
@@ -640,7 +815,8 @@
             "companies"
         ],
         "domains": [
-            "easeus.com"
+            "easeus.com",
+            "easeus.jp"
         ],
         "names": [
             "EaseUS",
@@ -655,7 +831,8 @@
         ],
         "domains": [
             "aomeitech.com",
-            "aomei.jp"
+            "aomei.jp",
+            "diskpart.com"
         ],
         "names": [
             "AOMEI"
@@ -671,7 +848,10 @@
             "imyfone.com"
         ],
         "names": [
-            "iMyFone"
+            "iMyFone",
+            "lockwiper",
+            "anyrecover",
+            "fixppo"
         ],
         "note": ""
     },
@@ -685,7 +865,8 @@
             "apowersoft.jp"
         ],
         "names": [
-            "Apowersoft"
+            "Apowersoft",
+            "gitmind"
         ],
         "note": ""
     },
@@ -694,9 +875,13 @@
         "genres": [
             "companies"
         ],
-        "domains": [],
+        "domains": [
+            "dvdfab.org"
+        ],
         "names": [
-            "DVDFab"
+            "DVDFab",
+            "streamfab",
+            "musicfab"
         ],
         "note": ""
     },
@@ -706,11 +891,75 @@
             "companies"
         ],
         "domains": [
-            "digiarty.com"
+            "digiarty.com",
+            "videoproc.com",
+            "aiarty.com"
         ],
         "names": [
             "Digiarty",
-            "videoproc"
+            "videoproc",
+            "aiarty"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Tenorshare",
+        "genres": [
+            "companies"
+        ],
+        "domains": [
+            "tenorshare.com",
+            "tenorshare.net",
+            "tenorshare.jp"
+        ],
+        "names": [
+            "Tenorshare",
+            "4ddig",
+            "reiboot",
+            "4ukey",
+            "ultdata"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Aiseesoft",
+        "genres": [
+            "companies"
+        ],
+        "domains": [
+            "aiseesoft.com",
+            "aiseesoft.jp"
+        ],
+        "names": [
+            "Aiseesoft",
+            "fonelab"
+        ],
+        "note": ""
+    },
+    {
+        "company": "FonePaw",
+        "genres": [
+            "companies"
+        ],
+        "domains": [
+            "fonepaw.com"
+        ],
+        "names": [
+            "FonePaw"
+        ],
+        "note": ""
+    },
+    {
+        "company": "Leawo",
+        "genres": [
+            "companies"
+        ],
+        "domains": [
+            "leawo.org"
+        ],
+        "names": [
+            "Leawo",
+            "cleverget"
         ],
         "note": ""
     },
@@ -721,7 +970,8 @@
         ],
         "domains": [
             "mi.com",
-            "xiaomi.com"
+            "xiaomi.com",
+            "po.co"
         ],
         "names": [
             "Xiaomi",
@@ -751,7 +1001,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "honor.com",
+            "hihonor.com"
+        ],
         "names": [
             "Honor"
         ],
@@ -762,7 +1015,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "oppo.com",
+            "oneplus.com"
+        ],
         "names": [
             "OPPO",
             "oneplus",
@@ -775,7 +1031,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "vivo.com",
+            "iqoo.com"
+        ],
         "names": [
             "vivo",
             "iqoo"
@@ -787,7 +1046,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "realme.com"
+        ],
         "names": [
             "realme"
         ],
@@ -798,9 +1059,12 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "meizu.com"
+        ],
         "names": [
-            "Meizu"
+            "Meizu",
+            "flyme"
         ],
         "note": ""
     },
@@ -821,12 +1085,18 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "transsion.com",
+            "tecno-mobile.com",
+            "infinixmobility.com",
+            "itel-life.com"
+        ],
         "names": [
             "Transsion",
             "tecno",
             "infinix",
-            "oraimo"
+            "oraimo",
+            "itel"
         ],
         "note": ""
     },
@@ -835,7 +1105,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "ulefone.com"
+        ],
         "names": [
             "Ulefone"
         ],
@@ -846,7 +1118,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "doogee.com"
+        ],
         "names": [
             "Doogee"
         ],
@@ -857,7 +1131,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "blackview.hk"
+        ],
         "names": [
             "Blackview"
         ],
@@ -868,7 +1144,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "chuwi.com"
+        ],
         "names": [
             "Chuwi"
         ],
@@ -879,7 +1157,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "teclast.com"
+        ],
         "names": [
             "Teclast"
         ],
@@ -904,7 +1184,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "unihertz.com"
+        ],
         "names": [
             "Unihertz"
         ],
@@ -915,7 +1197,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "minisforum.com",
+            "minisforum.jp"
+        ],
         "names": [
             "MINISFORUM",
             "ミニスフォーラム"
@@ -939,7 +1224,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "gmktec.com"
+        ],
         "names": [
             "GMKtec"
         ],
@@ -950,7 +1237,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "ayaneo.com"
+        ],
         "names": [
             "AYANEO",
             "アヤネオ"
@@ -962,7 +1251,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "gpd.hk"
+        ],
         "names": [
             "GPD"
         ],
@@ -973,7 +1264,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "anbernic.com"
+        ],
         "names": [
             "Anbernic"
         ],
@@ -984,7 +1277,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "8bitdo.com"
+        ],
         "names": [
             "8BitDo"
         ],
@@ -995,7 +1290,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "gamesir.com"
+        ],
         "names": [
             "GameSir"
         ],
@@ -1006,7 +1303,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "xp-pen.com"
+        ],
         "names": [
             "xp-pen",
             "XPPen"
@@ -1018,7 +1317,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "huion.com"
+        ],
         "names": [
             "Huion"
         ],
@@ -1029,7 +1330,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "nuphy.com"
+        ],
         "names": [
             "NuPhy"
         ],
@@ -1040,7 +1343,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "rkgaming.com"
+        ],
         "names": [
             "Royal Kludge"
         ],
@@ -1073,7 +1378,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "orico.cc"
+        ],
         "names": [
             "ORICO"
         ],
@@ -1089,12 +1396,14 @@
             "anker-in.com",
             "ankerjapan.com",
             "soundcore.com",
-            "eufy.com"
+            "eufy.com",
+            "seenebula.com"
         ],
         "names": [
             "Anker",
             "soundcore",
-            "eufy"
+            "eufy",
+            "Nebula"
         ],
         "note": "Since 2023, more than 5 recalls in Japan, most over fire risk"
     },
@@ -1103,10 +1412,14 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "ugreen.com",
+            "ugreen.jp"
+        ],
         "names": [
             "UGREEN",
-            "ユーグリーン"
+            "ユーグリーン",
+            "nexode"
         ],
         "note": ""
     },
@@ -1115,7 +1428,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "baseus.com"
+        ],
         "names": [
             "Baseus"
         ],
@@ -1126,7 +1441,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "aukey.com"
+        ],
         "names": [
             "Aukey"
         ],
@@ -1137,7 +1454,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "ravpower.jp"
+        ],
         "names": [
             "RAVPower"
         ],
@@ -1148,9 +1467,12 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "sharge.com"
+        ],
         "names": [
-            "Sharge"
+            "Sharge",
+            "shargeek"
         ],
         "note": ""
     },
@@ -1159,7 +1481,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "charmast.com"
+        ],
         "names": [
             "Charmast"
         ],
@@ -1171,10 +1495,14 @@
             "electronics"
         ],
         "domains": [
-            "tp-link.com"
+            "tp-link.com",
+            "tapo.com",
+            "kasasmart.com",
+            "omadanetworks.com"
         ],
         "names": [
-            "TP-Link"
+            "TP-Link",
+            "tapo"
         ],
         "note": ""
     },
@@ -1183,7 +1511,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "qcy.com",
+            "qcyjapan.com"
+        ],
         "names": [
             "QCY"
         ],
@@ -1194,9 +1525,12 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "edifier.com"
+        ],
         "names": [
-            "Edifier"
+            "Edifier",
+            "airpulse"
         ],
         "note": ""
     },
@@ -1205,7 +1539,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "soundpeats.com",
+            "isoundpeats.com"
+        ],
         "names": [
             "SoundPEATS"
         ],
@@ -1216,7 +1553,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "tronsmart.com"
+        ],
         "names": [
             "Tronsmart"
         ],
@@ -1227,7 +1566,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "haylou.com"
+        ],
         "names": [
             "Haylou"
         ],
@@ -1238,7 +1579,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "1more.com"
+        ],
         "names": [
             "1MORE"
         ],
@@ -1249,7 +1592,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "myearfun.com"
+        ],
         "names": [
             "EarFun"
         ],
@@ -1271,7 +1616,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "fiio.com",
+            "fiio.eu"
+        ],
         "names": [
             "FiiO",
             "フィーオ"
@@ -1283,7 +1631,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "amazfit.com",
+            "zepp.com"
+        ],
         "names": [
             "amazfit",
             "アマズフィット"
@@ -1295,7 +1646,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "xgimi.com"
+        ],
         "names": [
             "XGIMI"
         ],
@@ -1306,7 +1659,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "dangbei.com"
+        ],
         "names": [
             "Dangbei",
             "ダンベイ"
@@ -1322,7 +1677,8 @@
             "dji.com"
         ],
         "names": [
-            "DJI"
+            "DJI",
+            "Osmo"
         ],
         "note": ""
     },
@@ -1344,7 +1700,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "zhiyun-tech.com"
+        ],
         "names": [
             "Zhiyun"
         ],
@@ -1356,10 +1714,12 @@
             "electronics"
         ],
         "domains": [
-            "hikvision.com"
+            "hikvision.com",
+            "ezviz.com"
         ],
         "names": [
-            "Hikvision"
+            "Hikvision",
+            "ezviz"
         ],
         "note": ""
     },
@@ -1368,7 +1728,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "imou.com"
+        ],
         "names": [
             "Dahua",
             "imou"
@@ -1391,9 +1753,14 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "ninebot.com",
+            "segway.com",
+            "navimow.com"
+        ],
         "names": [
             "ninebot",
+            "navimow",
             "segway"
         ],
         "note": ""
@@ -1403,7 +1770,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "kingsmith.com",
+            "walkingpad.com"
+        ],
         "names": [
             "Kingsmith",
             "walkingpad"
@@ -1415,7 +1785,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "byd.com"
+        ],
         "names": [
             "BYD"
         ],
@@ -1426,7 +1798,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "zeekrlife.com",
+            "zeekrglobal.com"
+        ],
         "names": [
             "Zeekr"
         ],
@@ -1437,7 +1812,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "xpeng.com",
+            "xiaopeng.com"
+        ],
         "names": [
             "Xpeng"
         ],
@@ -1448,9 +1826,12 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "nio.com"
+        ],
         "names": [
-            "NIO"
+            "NIO",
+            "onvo"
         ],
         "note": ""
     },
@@ -1459,7 +1840,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "lixiang.com"
+        ],
         "names": [
             "Li Auto"
         ],
@@ -1470,7 +1853,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "yadea.com"
+        ],
         "names": [
             "Yadea"
         ],
@@ -1481,7 +1866,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "niu.com"
+        ],
         "names": [
             "NIU"
         ],
@@ -1492,9 +1879,13 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "ulanzi.jp",
+            "ulanzi.de"
+        ],
         "names": [
-            "Ulanzi"
+            "Ulanzi",
+            "falcam"
         ],
         "note": ""
     },
@@ -1503,7 +1894,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "neewer.jp"
+        ],
         "names": [
             "Neewer"
         ],
@@ -1514,7 +1907,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "smallrig.com"
+        ],
         "names": [
             "SmallRig",
             "スモールリグ"
@@ -1526,10 +1921,14 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "godox.jp",
+            "knowled.com"
+        ],
         "names": [
             "Godox",
-            "ゴドックス"
+            "ゴドックス",
+            "knowled"
         ],
         "note": ""
     },
@@ -1538,7 +1937,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "tcl.com"
+        ],
         "names": [
             "TCL"
         ],
@@ -1549,7 +1950,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "hisense.com",
+            "hisense.co.jp"
+        ],
         "names": [
             "Hisense",
             "ハイセンス"
@@ -1561,7 +1965,11 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "haier.com",
+            "haier.co.jp",
+            "aqua-has.com"
+        ],
         "names": [
             "Haier",
             "ハイアール",
@@ -1590,7 +1998,8 @@
         ],
         "names": [
             "Roborock",
-            "ロボロック"
+            "ロボロック",
+            "qrevo"
         ],
         "note": ""
     },
@@ -1601,7 +2010,8 @@
         ],
         "domains": [
             "dreametech.com",
-            "dreametech.jp"
+            "dreametech.jp",
+            "dreame.tech"
         ],
         "names": [
             "Dreame"
@@ -1613,11 +2023,17 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "ecovacs.com",
+            "tineco.com"
+        ],
         "names": [
             "Ecovacs",
             "tineco",
-            "エコバックス"
+            "deebot",
+            "winbot",
+            "エコバックス",
+            "ティネコ"
         ],
         "note": ""
     },
@@ -1626,9 +2042,12 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "narwal.com"
+        ],
         "names": [
-            "Narwal"
+            "Narwal",
+            "ナーワル"
         ],
         "note": ""
     },
@@ -1637,7 +2056,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "yeelight.com"
+        ],
         "names": [
             "Yeelight"
         ],
@@ -1648,7 +2069,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "aqara.com"
+        ],
         "names": [
             "Aqara"
         ],
@@ -1672,7 +2095,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "govee.com",
+            "goveelife.com"
+        ],
         "names": [
             "Govee"
         ],
@@ -1694,7 +2120,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "switch-bot.com",
+            "switchbot.jp"
+        ],
         "names": [
             "SwitchBot"
         ],
@@ -1705,7 +2134,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "meross.com"
+        ],
         "names": [
             "Meross"
         ],
@@ -1716,7 +2147,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "viomi.com"
+        ],
         "names": [
             "Viomi"
         ],
@@ -1727,7 +2160,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "dreo.com"
+        ],
         "names": [
             "Dreo",
             "ドレオ"
@@ -1739,7 +2174,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "ulike.com"
+        ],
         "names": [
             "Ulike"
         ],
@@ -1762,7 +2199,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "jackery.com"
+        ],
         "names": [
             "Jackery"
         ],
@@ -1773,7 +2212,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "ecoflow.com"
+        ],
         "names": [
             "EcoFlow"
         ],
@@ -1784,9 +2225,13 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "bluetti.jp",
+            "bluettipower.com"
+        ],
         "names": [
-            "Bluetti"
+            "Bluetti",
+            "ブルーティ"
         ],
         "note": ""
     },
@@ -1795,7 +2240,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "anycubic.com"
+        ],
         "names": [
             "Anycubic"
         ],
@@ -1806,7 +2253,10 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "creality.com",
+            "crealitycloud.com"
+        ],
         "names": [
             "Creality"
         ],
@@ -1817,7 +2267,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "elegoo.com"
+        ],
         "names": [
             "Elegoo"
         ],
@@ -1828,7 +2280,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "bambulab.com"
+        ],
         "names": [
             "Bambu Lab"
         ],
@@ -1839,7 +2293,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "flashforge.com"
+        ],
         "names": [
             "Flashforge"
         ],
@@ -1850,7 +2306,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "snapmaker.com"
+        ],
         "names": [
             "Snapmaker"
         ],
@@ -1861,7 +2319,9 @@
         "genres": [
             "electronics"
         ],
-        "domains": [],
+        "domains": [
+            "xtool.com"
+        ],
         "names": [
             "xTool"
         ],
@@ -1872,18 +2332,26 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "hoyoverse.com",
+            "hoyolab.com",
+            "mihoyo.com"
+        ],
         "names": [
             "miHoYo",
             "HoYoverse",
             "Cognosphere",
+            "hoyolab",
             "genshin",
             "genshin impact",
             "honkai",
             "zenless zone zero",
+            "tears of themis",
             "ミホヨ",
             "ホヨバ",
             "原神",
+            "崩壊3rd",
+            "未定事件簿",
             "スターレイル",
             "ネクサスアニマ",
             "ゼンレスゾーンゼロ",
@@ -1913,7 +2381,9 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "hypergryph.com"
+        ],
         "names": [
             "Hypergryph",
             "Gryphline",
@@ -1927,8 +2397,12 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "azurlane.jp"
+        ],
         "names": [
+            "Manjuu",
+            "YongShi",
             "azur lane",
             "アズールレーン"
         ],
@@ -1952,14 +2426,19 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "perfectworld.com",
+            "wanmei.com",
+            "jadedynasty.games"
+        ],
         "names": [
             "Perfect World",
             "Perfect World Games",
             "Hotta Studio",
             "tower of fantasy",
             "幻塔",
-            "neverness to everness"
+            "neverness to everness",
+            "jade dynasty"
         ],
         "note": ""
     },
@@ -1968,14 +2447,19 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "infoldgames.com"
+        ],
         "names": [
             "Papergames",
             "Infold Games",
             "love and deepspace",
             "infinity nikki",
             "恋と深空",
-            "インフィニティニキ"
+            "インフィニティニキ",
+            "ミラクルニキ",
+            "シャイニングニキ",
+            "恋とプロデューサー"
         ],
         "note": ""
     },
@@ -1984,8 +2468,12 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "sunborngame.com"
+        ],
         "names": [
+            "girls frontline",
+            "Girls' Frontline",
             "ドールズフロントライン",
             "少女前線"
         ],
@@ -1996,8 +2484,12 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "bluepoch.com"
+        ],
         "names": [
+            "Bluepoch",
+            "Reverse: 1999",
             "リバース：1999",
             "リバース:1999"
         ],
@@ -2008,9 +2500,12 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "maj-soul.com"
+        ],
         "names": [
             "mahjong soul",
+            "mahjongsoul",
             "雀魂",
             "じゃんたま"
         ],
@@ -2021,8 +2516,13 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "firstfun.com",
+            "lastwar.com"
+        ],
         "names": [
+            "FirstFun",
+            "Funfly",
             "ラストウォー"
         ],
         "note": ""
@@ -2032,10 +2532,14 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "aurogon.com",
+            "gujiangame.com"
+        ],
         "names": [
             "ash echoes",
-            "アッシュエコーズ"
+            "アッシュエコーズ",
+            "古剑奇谭"
         ],
         "note": ""
     },
@@ -2044,7 +2548,10 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "idreamsky.com",
+            "strinova.com"
+        ],
         "names": [
             "strinova",
             "ストリノヴァ"
@@ -2056,7 +2563,9 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "dna-panstudio.com"
+        ],
         "names": [
             "duet night abyss",
             "デュエットナイトアビス"
@@ -2074,7 +2583,8 @@
         ],
         "names": [
             "Moonton",
-            "mobile legends"
+            "mobile legends",
+            "watcher of realms"
         ],
         "note": ""
     },
@@ -2083,9 +2593,16 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "centurygames.com",
+            "whiteoutsurvival.com"
+        ],
         "names": [
-            "whiteout survival"
+            "Century Games",
+            "whiteout survival",
+            "kingshot",
+            "ホワイトアウト・サバイバル",
+            "ホワサバ"
         ],
         "note": ""
     },
@@ -2094,12 +2611,15 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "s-game.com"
+        ],
         "names": [
             "S-GAME",
             "S-GAME Studio",
             "S-GAME Publishing",
-            "phantom blade zero"
+            "phantom blade zero",
+            "影之刃零"
         ],
         "note": ""
     },
@@ -2108,10 +2628,15 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "seasungames.com",
+            "amazingseasun.com"
+        ],
         "names": [
             "Seasun Games",
-            "Amazing Seasun Games"
+            "Amazing Seasun Games",
+            "snowbreak",
+            "mecha break"
         ],
         "note": ""
     },
@@ -2128,7 +2653,8 @@
             "Lilith Games",
             "rise of kingdoms",
             "afk arena",
-            "afk journey"
+            "afk journey",
+            "call of dragons"
         ],
         "note": ""
     },
@@ -2137,10 +2663,13 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "farlightgames.com"
+        ],
         "names": [
             "Farlight Games",
-            "farlight 84"
+            "farlight 84",
+            "dislyte"
         ],
         "note": ""
     },
@@ -2155,7 +2684,10 @@
         ],
         "names": [
             "lords mobile",
-            "ロードモバイル"
+            "ロードモバイル",
+            "castle clash",
+            "viking rise",
+            "time princess"
         ],
         "note": ""
     },
@@ -2164,9 +2696,12 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "yo-star.com"
+        ],
         "names": [
-            "Yostar"
+            "Yostar",
+            "stella sora"
         ],
         "note": ""
     },
@@ -2175,9 +2710,16 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "xd.com"
+        ],
         "names": [
-            "XD"
+            "XD",
+            "sausage man",
+            "torchlight infinite",
+            "Torchlight: Infinite",
+            "sword of convallaria",
+            "heartopia"
         ],
         "note": ""
     },
@@ -2209,10 +2751,14 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "37.com",
+            "37games.com"
+        ],
         "names": [
             "37 Interactive Entertainment",
-            "37Games"
+            "37Games",
+            "Puzzles & Survival"
         ],
         "note": ""
     },
@@ -2221,10 +2767,17 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "funplus.com"
+        ],
         "names": [
             "FunPlus",
-            "FunPlus International"
+            "FunPlus International",
+            "state of survival",
+            "king of avalon",
+            "guns of glory",
+            "sea of conquest",
+            "dc dark legion"
         ],
         "note": ""
     },
@@ -2233,9 +2786,13 @@
         "genres": [
             "games"
         ],
-        "domains": [],
+        "domains": [
+            "pathea.net"
+        ],
         "names": [
-            "Pathea Games"
+            "Pathea Games",
+            "my time at portia",
+            "my time at sandrock"
         ],
         "note": ""
     },
@@ -2257,7 +2814,8 @@
         ],
         "domains": [],
         "names": [
-            "Gamera Game"
+            "Gamera Game",
+            "dyson sphere program"
         ],
         "note": ""
     },
