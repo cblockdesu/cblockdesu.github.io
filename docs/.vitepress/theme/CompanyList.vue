@@ -15,6 +15,7 @@ const TEXT = {
         note: "Note",
         genres: {
             electronics: "Electronics",
+            pc: "PCs and peripherals",
             games: "Games",
             ai: "AI models",
             social: "Social and video apps",
@@ -31,6 +32,7 @@ const TEXT = {
         note: "備考",
         genres: {
             electronics: "家電・電子機器",
+            pc: "PC・周辺機器",
             games: "ゲーム",
             ai: "AIモデル",
             social: "SNS・動画アプリ",
