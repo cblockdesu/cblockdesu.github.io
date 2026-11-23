@@ -1,0 +1,1 @@
+var e=`/images/chrome-web-store.png`,t=`/images/firefox-add-ons.png`,n=`/images/popup-en.png`,r=`/images/popup-ja.png`;export{e as i,n,t as r,r as t};
